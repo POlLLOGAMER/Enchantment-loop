@@ -3,6 +3,7 @@ Enchantment Loop is a meta-architecture that improves the question you ask the A
 
 Code of Enchantment loop:
 ```
+!pip install -U -q "google-generativeai>=0.8.2"
 import google.generativeai as genai
 import time
 
